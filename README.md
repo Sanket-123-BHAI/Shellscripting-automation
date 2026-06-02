@@ -1,2 +1,1 @@
-# Shellscripting-automation
-test purpose
+# ShellScripting_Automation
